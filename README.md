@@ -14,6 +14,8 @@
 
   👨‍💻 LinkedIn - [Yogita Patil](https://www.linkedin.com/in/yogita-patil-978710283/)
 
+   Project - Wedding Planner Website - A responsive website built using HTML, CSS, JavaScript
+
   
 ## 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
