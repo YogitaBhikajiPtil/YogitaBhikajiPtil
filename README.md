@@ -10,7 +10,7 @@
 
   📧📫 Email -patilyogita0303@gmail.com
 
-  💼 Portfolio - https://anshulagrawal999.github.io/
+  💼 Portfolio - https://yogitabhikajiptil.github.io/portfolio/
 
   👨‍💻 LinkedIn - [Yogita Patil](https://www.linkedin.com/in/yogita-patil-978710283/)
 
