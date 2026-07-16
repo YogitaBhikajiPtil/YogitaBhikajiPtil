@@ -1,40 +1,148 @@
-## Hi there 👋, I'm Yogita Patil
+# Hi 👋, I'm Yogita Patil
 
-  Innovative Frontend Developer with expertise in React.js and adept at creating responsive, high-performance user interfaces. Demonstrates proficiency in integrating frontend components with server-side APIs and RESTful services. Quick to adopt new technologies, including Generative AI, and improve development workflows.
+## Full Stack Developer
 
-  🌍 I'm based in Nashik, Maharashtra
-  
-  ⚡ I'm interested in Software Development, solving complex problems
-  
-  😃 I love coding.
+I am a 2026 B.Tech Computer Science graduate passionate about building scalable full-stack web applications and solving real-world problems through software engineering.
 
-  📧📫 Email -patilyogita0303@gmail.com
+- 🌱 Currently improving Backend Development & Cloud Deployment
+- 💻 Interested in Full Stack Development
+- 🧠 Solved 300+ Data Structures & Algorithms problems
+- 📍 Nashik, Maharashtra, India
+- 📫 Email: patilyogita0303@gmail.com
 
-  💼 Portfolio - https://yogitabhikajiptil.github.io/portfolio/
+---
 
-  👨‍💻 LinkedIn - [Yogita Patil](https://www.linkedin.com/in/yogita-patil-978710283/)
+## 🚀 Tech Stack
 
-   Project - Wedding Planner Website - A responsive website built using HTML, CSS, JavaScript
+### Languages
+- JavaScript
+- HTML5
+- CSS3
+- SQL
 
-  
-## 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Backend
+- Node.js
+- Express.js
+- REST APIs
 
-## 🧰 Tech Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+### Database
+- MySQL
+- MongoDB
+- Sequelize ORM
 
+### Cloud & Tools
+- AWS
+- Git
+- GitHub
+- Postman
 
-## 📊 GitHub Stats
-![Yogita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YogitaBhikajiPtil&show_icons=true&theme=dark)
+### Core Computer Science
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management System
+- Operating Systems
 
+---
 
+# Featured Projects
+
+## 🚜 KisanKart
+A full-stack multi-vendor farmer marketplace connecting farmers directly with customers.
+
+### Features
+- Multi-role Authentication (Customer, Farmer, Delivery & Admin)
+- JWT Authentication & Authorization
+- Product Management
+- Cart & Wishlist
+- Checkout & Order Management
+- RESTful APIs
+- MySQL + Sequelize ORM
+- AWS Deployment
+
+**Tech Stack**
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- MySQL
+- Sequelize ORM
+- AWS
+
+🔗 Live Demo: Coming Soon
+
+🔗 Repository:
+(Add Repository Link)
+
+---
+
+## 💇 Salon Booking System
+
+A full-stack appointment booking platform with authentication, scheduling and admin dashboard.
+
+### Features
+- JWT Authentication
+- Appointment Booking
+- Email Reminder (Cron Jobs)
+- Staff & Service Management
+- Reviews
+- Online Payment Integration
+
+**Tech Stack**
+- Node.js
+- Express.js
+- MySQL
+- Sequelize ORM
+- AWS
+
+🔗 Live Demo: Coming Soon
+
+🔗 Repository:
+(Add Repository Link)
+
+---
+
+## 💬 Group Chat Application
+
+A real-time chat application using Socket.IO and WebSockets.
+
+### Features
+- Real-time Messaging
+- User Authentication
+- Persistent Chat History
+- Multiple Users
+
+**Tech Stack**
+- Node.js
+- Express.js
+- Socket.IO
+- MySQL
+
+🔗 Live Demo: Coming Soon
+
+🔗 Repository:
+(Add Repository Link)
+
+---
+
+## 🏆 Achievements
+
+- Solved 300+ DSA Problems
+- NMMS Scholar (Government of India)
+- CGPA: 8.40
+
+---
+
+## 📜 Certifications
+
+- Data Structures & Algorithms — Apna College
+- Web Development Training — Internshala
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: (Add Link)
+- GitHub: (Add Link)
+- Portfolio: (Add Link)
+- Email: patilyogita0303@gmail.com
