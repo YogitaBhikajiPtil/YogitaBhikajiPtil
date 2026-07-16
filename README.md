@@ -142,7 +142,7 @@ A real-time chat application using Socket.IO and WebSockets.
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add Link)
-- GitHub: (Add Link)
-- Portfolio: (Add Link)
+- LinkedIn: https://www.linkedin.com/in/yogita-patil-978710283/
+- GitHub: https://github.com/YogitaBhikajiPtil
+- Portfolio: https://yogitabhikajiptil.github.io/latest-portfolio/
 - Email: patilyogita0303@gmail.com
