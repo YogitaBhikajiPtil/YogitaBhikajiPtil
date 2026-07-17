@@ -94,7 +94,7 @@ A full-stack appointment booking platform with authentication, scheduling and ad
 - Sequelize ORM
 - AWS
 
-🔗 Live Demo: Coming Soon
+🔗 Live Demo: http://salon-booking-frontend-2026.s3-website.ap-south-1.amazonaws.com/
 
 🔗 Repository:https://github.com/YogitaBhikajiPtil/salon-booking-system
 
