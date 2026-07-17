@@ -69,10 +69,9 @@ A full-stack multi-vendor farmer marketplace connecting farmers directly with cu
 - Sequelize ORM
 - AWS
 
-🔗 Live Demo: Coming Soon
+🔗 Live Demo: http://kisankart-frontend.s3-website.ap-south-1.amazonaws.com/
 
-🔗 Repository:
-(Add Repository Link)
+🔗 Repository: https://github.com/YogitaBhikajiPtil/kisankart/tree/main/client
 
 ---
 
@@ -97,8 +96,7 @@ A full-stack appointment booking platform with authentication, scheduling and ad
 
 🔗 Live Demo: Coming Soon
 
-🔗 Repository:
-(Add Repository Link)
+🔗 Repository:https://github.com/YogitaBhikajiPtil/salon-booking-system
 
 ---
 
@@ -120,8 +118,7 @@ A real-time chat application using Socket.IO and WebSockets.
 
 🔗 Live Demo: Coming Soon
 
-🔗 Repository:
-(Add Repository Link)
+🔗 Repository:https://github.com/YogitaBhikajiPtil/building-group-chat
 
 ---
 
