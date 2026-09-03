@@ -69,9 +69,10 @@ A full-stack multi-vendor farmer marketplace connecting farmers directly with cu
 - Sequelize ORM
 - AWS
 
-🔗 Live Demo: http://kisankart-frontend.s3-website.ap-south-1.amazonaws.com/
+🔗 Live Demo: https://yogitabhikajiptil.github.io/kisankart/
 
-🔗 Repository: https://github.com/YogitaBhikajiPtil/kisankart/tree/main/client
+
+🔗 Repository: https://github.com/YogitaBhikajiPtil/kisankart
 
 ---
 
@@ -94,32 +95,42 @@ A full-stack appointment booking platform with authentication, scheduling and ad
 - Sequelize ORM
 - AWS
 
-🔗 Live Demo: http://salon-booking-frontend-2026.s3-website.ap-south-1.amazonaws.com/
-
-🔗 Repository:https://github.com/YogitaBhikajiPtil/salon-booking-system
+🔗 Live Demo: https://yogitabhikajiptil.github.io/salon-booking-system/
+🔗 Repository: https://github.com/YogitaBhikajiPtil/salon-booking-system
 
 ---
+💰 Expense Tracker
 
-## 💬 Group Chat Application
+A full-stack expense management application that allows users to securely track and manage their daily expenses.
 
-A real-time chat application using Socket.IO and WebSockets.
+Features
+User Registration & Login
+JWT Authentication
+Secure Password Hashing
+Add Expenses
+Edit Expenses
+Delete Expenses
+View Expense History
+Expense Categorization
+User-specific Expense Management
+RESTful APIs
+MongoDB Database
 
-### Features
-- Real-time Messaging
-- User Authentication
-- Persistent Chat History
-- Multiple Users
+Tech Stack
 
-**Tech Stack**
-- Node.js
-- Express.js
-- Socket.IO
-- MySQL
+HTML
+CSS
+JavaScript
+Node.js
+Express.js
+MongoDB
+Mongoose
+JWT
+bcrypt
 
-🔗 Live Demo: Coming Soon
+🔗 Live Demo: https://github.com/YogitaBhikajiPtil/expense-tracker-mongodb
 
-🔗 Repository:https://github.com/YogitaBhikajiPtil/building-group-chat
-
+🔗 Repository: https://github.com/YogitaBhikajiPtil/expense-tracker/tree/master
 ---
 
 ## 🏆 Achievements
