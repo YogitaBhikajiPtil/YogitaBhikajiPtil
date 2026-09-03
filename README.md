@@ -96,6 +96,7 @@ A full-stack appointment booking platform with authentication, scheduling and ad
 - AWS
 
 🔗 Live Demo: https://yogitabhikajiptil.github.io/salon-booking-system/
+
 🔗 Repository: https://github.com/YogitaBhikajiPtil/salon-booking-system
 
 ---
