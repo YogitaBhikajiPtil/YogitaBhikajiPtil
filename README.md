@@ -128,8 +128,8 @@ Mongoose
 JWT
 bcrypt
 
-🔗 Live Demo: https://github.com/YogitaBhikajiPtil/expense-tracker-mongodb
-
+🔗 Live Demo: https://yogitabhikajiptil.github.io/expense-tracker-mongodb/
+              
 🔗 Repository: https://github.com/YogitaBhikajiPtil/expense-tracker/tree/master
 ---
 
